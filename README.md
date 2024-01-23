@@ -1,2 +1,2 @@
 # exercism
-My solutions from https://exercism.org/t
+My solutions from https://exercism.org/
